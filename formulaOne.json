@@ -1,0 +1,156 @@
+[
+  {
+    "rank": "1",
+    "points": "416",
+    "firstName": "Max",
+    "lastName": "Verstappen",
+    "team": "Red Bull Racing"
+  },
+  {
+    "rank": "2",
+    "points": "280",
+    "firstName": "Sergio",
+    "lastName": "Perez",
+    "team": "Red Bull Racing"
+  },
+  {
+    "rank": "3",
+    "points": "275",
+    "firstName": "Charles",
+    "lastName": "Leclerc",
+    "team": "Ferrari"
+  },
+  {
+    "rank": "4",
+    "points": "231",
+    "firstName": "George",
+    "lastName": "Russell",
+    "team": "Mercedes"
+  },
+  {
+    "rank": "5",
+    "points": "216",
+    "firstName": "Lewis",
+    "lastName": "Hamilton",
+    "team": "Mercedes"
+  },
+  {
+    "rank": "6",
+    "points": "212",
+    "firstName": "Carlos",
+    "lastName": "Sainz",
+    "team": "Ferrari"
+  },
+  {
+    "rank": "7",
+    "points": "111",
+    "firstName": "Lando",
+    "lastName": "Norris",
+    "team": "McLaren"
+  },
+  {
+    "rank": "8",
+    "points": "82",
+    "firstName": "Esteban",
+    "lastName": "Ocon",
+    "team": "Alpine"
+  },
+  {
+    "rank": "9",
+    "points": "71",
+    "firstName": "Fernando",
+    "lastName": "Alonso",
+    "team": "Alpine"
+  },
+  {
+    "rank": "10",
+    "points": "47",
+    "firstName": "Valtteri",
+    "lastName": "Bottas",
+    "team": "Alfa Romeo"
+  },
+  {
+    "rank": "11",
+    "points": "36",
+    "firstName": "Sebastian",
+    "lastName": "Vettel",
+    "team": "Aston Martin"
+  },
+  {
+    "rank": "12",
+    "points": "35",
+    "firstName": "Daniel",
+    "lastName": "Ricciardo",
+    "team": "McLaren"
+  },
+  {
+    "rank": "13",
+    "points": "24",
+    "firstName": "Kevin",
+    "lastName": "Magnussen",
+    "team": "Haas F1 Team"
+  },
+  {
+    "rank": "14",
+    "points": "23",
+    "firstName": "Pierre",
+    "lastName": "Gasly",
+    "team": "AlphaTauri"
+  },
+  {
+    "rank": "15",
+    "points": "13",
+    "firstName": "Lance",
+    "lastName": "Stroll",
+    "team": "Aston Martin"
+  },
+  {
+    "rank": "16",
+    "points": "12",
+    "firstName": "Mick",
+    "lastName": "Schumacher",
+    "team": "Haas F1 Team"
+  },
+  {
+    "rank": "17",
+    "points": "12",
+    "firstName": "Yuki",
+    "lastName": "Tsunoda",
+    "team": "AlphaTauri"
+  },
+  {
+    "rank": "18",
+    "points": "6",
+    "firstName": "Guanyu",
+    "lastName": "Zhou",
+    "team": "Alfa Romeo"
+  },
+  {
+    "rank": "19",
+    "points": "4",
+    "firstName": "Alexander",
+    "lastName": "Albon",
+    "team": "Williams"
+  },
+  {
+    "rank": "20",
+    "points": "2",
+    "firstName": "Nicholas",
+    "lastName": "Latifi",
+    "team": "Williams"
+  },
+  {
+    "rank": "21",
+    "points": "2",
+    "firstName": "Nyck",
+    "lastName": "De Vries",
+    "team": "Williams"
+  },
+  {
+    "rank": "22",
+    "points": "0",
+    "firstName": "Nico",
+    "lastName": "Hulkenberg",
+    "team": "Aston Martin"
+  }
+]
